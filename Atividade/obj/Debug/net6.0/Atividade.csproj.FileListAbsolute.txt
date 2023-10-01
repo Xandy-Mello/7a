@@ -1,0 +1,15 @@
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\bin\Debug\net6.0\Atividade.exe
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\bin\Debug\net6.0\Atividade.deps.json
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\bin\Debug\net6.0\Atividade.dll
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\bin\Debug\net6.0\Atividade.pdb
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.dll
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\refint\Atividade.dll
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.pdb
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+C:\Programação\cursobackendsenai\C-SHARP\7a\Atividade\obj\Debug\net6.0\ref\Atividade.dll
